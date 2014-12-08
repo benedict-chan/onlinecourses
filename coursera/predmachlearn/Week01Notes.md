@@ -7,12 +7,12 @@
 ### Book for reference
 - Elements of Statistical Learning
 
-## Error Measure
-### Median absolute deviation (continuous data)
+### Error Measure
+#### Median absolute deviation (continuous data)
 
-### Mean squared error (continuous data)
+#### Mean squared error (continuous data)
 
-### Sensitivity, Specificity Notes 1-6, Binary Prediction
+#### Sensitivity, Specificity Notes 1-6, Binary Prediction
 https://onlinecourses.science.psu.edu/stat507/node/71 
 
 ### Components of a predictor

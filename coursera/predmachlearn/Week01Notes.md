@@ -29,6 +29,14 @@ https://onlinecourses.science.psu.edu/stat507/node/71
 - 20% of to be validation
 
 
+### Cross Validation
+- Take training data
+- Split into Training set and Test set
+- Build a model on the training set (subset of original training set)
+- Evaluate on Test set
+- Repeat over and over to get average estimated errors
+
+
 
 #### Other notes
 

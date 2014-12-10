@@ -12,6 +12,7 @@ install.packages('munsell')
 install.packages('BradleyTerry2')
 install.packages('minqa', dependencies = TRUE)
 install.packages('nloptr', dependencies = TRUE)
+install.packages('Hmisc', dependencies = TRUE)
 
 ```
 
@@ -25,3 +26,5 @@ install.packages('nloptr', dependencies = TRUE)
 #### Commands
 `typeof(get("diagnosis"))
 
+#### Terms
+`Factor` which is like Categorical in `pandas`
